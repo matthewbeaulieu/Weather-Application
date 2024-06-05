@@ -1,0 +1,10 @@
+functions:
+chose place to show what the conditions are 
+tempeature
+sunny, cloudy rainy, windiy 
+
+
+Actions: 
+
+purpose:
+to display weather in current r chossen area. this includes rain time/type sunny /cloudy
